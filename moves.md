@@ -23,7 +23,7 @@
 ##### Commercial breaks
 
 - The Daily broke for its one commercial each episode with "we'll be right back." It was always slightly more than halfway through the podcast.
-- Can He Do That? did not have any commercial breaks. However, at the beginning of each episode, a sponsor is briefly mentioned.
+- One episode of Can He Do That? did not have any commercial breaks, while the other had a very brief (compared to The Daily) mention of a sponsor approximately halfway through the episode. However, at the beginning of each episode, a sponsor is briefly mentioned.
 
 ##### Conclusion
 
@@ -55,4 +55,4 @@
 
 - The Daily was very journalistic, as expected: Barbaro introduces and interviews guests. There are sections where Barbaro plays audio from current events, but the majority of his podcasts are composed of interviews.
 - The interviews on The Daily were more formal when covering political topics, and more like discussions when talking about other things.
-- Can He Do That? is also in interview format, but overall seems slightly more formal than The Daily at certain points, likely because it has a more specific focus that requires a continuous level of formality.
+- Can He Do That? is also in interview format, but overall seems slightly more formal than The Daily at certain points, likely because it has a more specific focus that requires a continuous level of formality, while The Daily covered more casual topics.
