@@ -46,7 +46,7 @@
 ##### FX
 
 - Throughout each episode of The Daily, audio from current events (such as CPAC or events in Iraq) or movies (like Moonlight) was played during the interviews. There was very little division between the audio and the interview; at times they even overlapped.
-- Rather than including audio, Michaels usually read off quotes during her interviews. She did, at a few points, include other, previously taped interviews in order to go more in depth.
+- Rather than including audio, Michaels usually read off quotes during her interviews. She did, at a few points, include other, previously taped interviews in order to go more in depth. These were phone interviews and seemed to be lower quality than the rest of the podcast, as the phone static was audible at some points.
 - On a couple of occasions, Can He Do That? does use brief audio of things such as Trump's quotes.
 
 ### Narrative types
