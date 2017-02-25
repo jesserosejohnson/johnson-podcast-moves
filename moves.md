@@ -2,9 +2,9 @@
 
 ## Genre: News & Politics
 
-#### The Daily (The New York Times) - 2/23-2/24
+#### The Daily (Michael Barbaro, The New York Times) - 2/23-2/24
 
-#### Can He Do That? (The Washington Post) - 2/17, 2/24
+#### Can He Do That? (Allison Michaels, The Washington Post) - 2/17, 2/24
 
 ### Organization
 
@@ -23,13 +23,14 @@
 ##### Commercial breaks
 
 - The Daily broke for its one commercial each episode with "we'll be right back." It was always slightly more than halfway through the podcast.
-- Can He Do That? did not have any commercial breaks.
+- Can He Do That? did not have any commercial breaks. However, at the beginning of each episode, a sponsor is briefly mentioned.
 
 ##### Conclusion
 
 - Each episode of The Daily closed with two to three minutes of other current events that were not covered in the episode. No guests were involved in this part of the podcast.
 - At the very end of The Daily, Barbaro listed everyone involved in the production of the podcast.
--
+- Can He Do That? ends with Michaels asking her interviewee a few "rapid fire" questions as the episode winds down. These are much briefer than their discussions earlier in the episode. She then thanks her guest, gives Twitter handles and websites, and a mention of what she intends to discuss next week.
+- As expected, each episode of Can He Do That? ends with a list of the production team.
 
 ### Style
 
@@ -45,7 +46,8 @@
 ##### FX
 
 - Throughout each episode of The Daily, audio from current events (such as CPAC or events in Iraq) or movies (like Moonlight) was played during the interviews. There was very little division between the audio and the interview; at times they even overlapped.
-- Aside from its theme music, I did not notice the use of any FX in Can He Do That?, which I was surprised by. Rather than including audio, Michaels read off quotes during her interviews. She did, at a few points, include other, presumably previously taped, interviews.
+- Rather than including audio, Michaels usually read off quotes during her interviews. She did, at a few points, include other, presumably previously taped, interviews.
+- On a couple of occasions, Can He Do That? does use brief audio of things such as Trump's quotes.
 
 ### Narrative types
 
